@@ -1,0 +1,11 @@
+C:\Users\rpfilho\Desktop\My Things\DevOps\Ferramentas\ConfigAplicator\ConfigAplicator\ConfigAplicator\bin\Debug\netcoreapp2.1\ConfigAplicator.deps.json
+C:\Users\rpfilho\Desktop\My Things\DevOps\Ferramentas\ConfigAplicator\ConfigAplicator\ConfigAplicator\bin\Debug\netcoreapp2.1\ConfigAplicator.runtimeconfig.json
+C:\Users\rpfilho\Desktop\My Things\DevOps\Ferramentas\ConfigAplicator\ConfigAplicator\ConfigAplicator\bin\Debug\netcoreapp2.1\ConfigAplicator.runtimeconfig.dev.json
+C:\Users\rpfilho\Desktop\My Things\DevOps\Ferramentas\ConfigAplicator\ConfigAplicator\ConfigAplicator\bin\Debug\netcoreapp2.1\ConfigAplicator.dll
+C:\Users\rpfilho\Desktop\My Things\DevOps\Ferramentas\ConfigAplicator\ConfigAplicator\ConfigAplicator\bin\Debug\netcoreapp2.1\ConfigAplicator.pdb
+C:\Users\rpfilho\Desktop\My Things\DevOps\Ferramentas\ConfigAplicator\ConfigAplicator\ConfigAplicator\obj\Debug\netcoreapp2.1\ConfigAplicator.csprojAssemblyReference.cache
+C:\Users\rpfilho\Desktop\My Things\DevOps\Ferramentas\ConfigAplicator\ConfigAplicator\ConfigAplicator\obj\Debug\netcoreapp2.1\ConfigAplicator.csproj.CoreCompileInputs.cache
+C:\Users\rpfilho\Desktop\My Things\DevOps\Ferramentas\ConfigAplicator\ConfigAplicator\ConfigAplicator\obj\Debug\netcoreapp2.1\ConfigAplicator.AssemblyInfoInputs.cache
+C:\Users\rpfilho\Desktop\My Things\DevOps\Ferramentas\ConfigAplicator\ConfigAplicator\ConfigAplicator\obj\Debug\netcoreapp2.1\ConfigAplicator.AssemblyInfo.cs
+C:\Users\rpfilho\Desktop\My Things\DevOps\Ferramentas\ConfigAplicator\ConfigAplicator\ConfigAplicator\obj\Debug\netcoreapp2.1\ConfigAplicator.dll
+C:\Users\rpfilho\Desktop\My Things\DevOps\Ferramentas\ConfigAplicator\ConfigAplicator\ConfigAplicator\obj\Debug\netcoreapp2.1\ConfigAplicator.pdb
