@@ -125,7 +125,7 @@ namespace ConfigAplicator
                 
             }
             Console.Clear();
-            Console.WriteLine("Deu certo gordao meu pcr");
+            Console.WriteLine("Fim");
             Console.ReadKey();
          
 
